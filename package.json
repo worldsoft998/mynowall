@@ -19,7 +19,7 @@
       "spdy":"*",
 	  "crypto":"*"
   },
-  "main": "server.js"	
+  "main": "server.js"
   "engines": {
     "node": "v14.20.0"
   },
