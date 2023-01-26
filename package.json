@@ -20,4 +20,12 @@
 	  "crypto":"*"
   },
   "main": "server.js"
+	
+"engines": {
+    "node": "v14.20.0"
+  },
+  "scripts": {
+    "start": "node server.js -b 0.0.0.0"
+  }
+
 }
